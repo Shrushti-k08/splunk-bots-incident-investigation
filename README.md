@@ -11,13 +11,13 @@ FortiGate, Sysmon logs)
 
 ## Investigation Evidence Screenshots
 ### 1. Shellshock Investigation
-<img src="screenshots/shellshock-investigation.png" width="700" alt="Shellshock Investigation">
+<img src="screenshots/ShellShock-investigation.png" width="700" alt="ShellShock investigation">
 
 ### 2. Brute-Force Investigation
-<img src="screenshots/brute-force-investigation.png" width="700" alt="Brute-Force Investigation">
+<img src="screenshots/brute-force-investigation.png" width="700" alt="brute-force investigation">
 
 ### 3. Incident Timeline
-<img src="screenshots/incident-timeline.png" width="700" alt="Incident Timeline">
+<img src="screenshots/incident-timeline.png" width="700" alt="incident timeline">
 
 ## What I did
 - Scoped the dataset (955,807 events, 22 sourcetypes)
