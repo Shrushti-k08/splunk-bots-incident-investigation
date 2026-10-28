@@ -10,15 +10,14 @@ Splunk Enterprise, SPL, BOTS v1 dataset (Suricata, stream:http, IIS,
 FortiGate, Sysmon logs)
 
 ## Investigation Evidence Screenshots
-
 ### 1. Shellshock Investigation
-![Shellshock Investigation](screenshots/ShellShock-investigation.png)
+<img src="screenshots/shellshock-investigation.png" width="700" alt="Shellshock Investigation">
 
 ### 2. Brute-Force Investigation
-![Brute-Force Investigation](screenshots/brute-force-investigation.png)
+<img src="screenshots/brute-force-investigation.png" width="700" alt="Brute-Force Investigation">
 
 ### 3. Incident Timeline
-![Incident Timeline](screenshots/incident-timeline.png)
+<img src="screenshots/incident-timeline.png" width="700" alt="Incident Timeline">
 
 ## What I did
 - Scoped the dataset (955,807 events, 22 sourcetypes)
