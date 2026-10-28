@@ -9,6 +9,14 @@ sequence, findings, and indicators of compromise (IOCs).
 Splunk Enterprise, SPL, BOTS v1 dataset (Suricata, stream:http, IIS,
 FortiGate, Sysmon logs)
 
+### Screenshots
+### Shellshock Exploit Investigation
+<img width="897" height="500" alt="Shellshock Exploit Investigation" src="screenshots/shellshock-investigation.png" />
+### Brute-Force Investigation
+<img width="897" height="500" alt="Brute-Force Investigation" src="screenshots/brute-force-investigation.png" />
+### Incident Timeline
+<img width="897" height="500" alt="Incident Timeline" src="screenshots/incident-timeline.png" />
+
 ## What I did
 - Scoped the dataset (955,807 events, 22 sourcetypes)
 - Identified high-priority Suricata alerts and the suspicious source IP
