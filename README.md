@@ -9,13 +9,16 @@ sequence, findings, and indicators of compromise (IOCs).
 Splunk Enterprise, SPL, BOTS v1 dataset (Suricata, stream:http, IIS,
 FortiGate, Sysmon logs)
 
-### Screenshots
-### Shellshock Exploit Investigation
-<img width="897" height="500" alt="Shellshock Exploit Investigation" src="screenshots/shellshock-investigation.png" />
-### Brute-Force Investigation
-<img width="897" height="500" alt="Brute-Force Investigation" src="screenshots/brute-force-investigation.png" />
-### Incident Timeline
-<img width="897" height="500" alt="Incident Timeline" src="screenshots/incident-timeline.png" />
+## Investigation Evidence Screenshots
+
+### 1. Shellshock Investigation
+![Shellshock Investigation](screenshots/ShellShock-investigation.png)
+
+### 2. Brute-Force Investigation
+![Brute-Force Investigation](screenshots/brute-force-investigation.png)
+
+### 3. Incident Timeline
+![Incident Timeline](screenshots/incident-timeline.png)
 
 ## What I did
 - Scoped the dataset (955,807 events, 22 sourcetypes)
