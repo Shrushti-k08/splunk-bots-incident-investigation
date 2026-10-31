@@ -35,7 +35,6 @@ FortiGate, Sysmon logs)
 - Successful compromise: not confirmed by the evidence reviewed
 
 ## Dashboard
-### 3. Incident Timeline
 <img src="SOC Overview - BOTS Web Attack Investigation Dashboard.png" width="700" alt="SOC Overview - BOTS Web Attack Investigation Dashboard">
 
 ## Limitations
