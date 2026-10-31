@@ -34,6 +34,10 @@ FortiGate, Sysmon logs)
 - Scanning, exploit attempts, and brute-force attempts: confirmed
 - Successful compromise: not confirmed by the evidence reviewed
 
+## Dashboard
+### 3. Incident Timeline
+<img src="SOC Overview - BOTS Web Attack Investigation Dashboard.png" width="700" alt="SOC Overview - BOTS Web Attack Investigation Dashboard">
+
 ## Limitations
 Sysmon events mentioning the attacker IP were not analysed. HTTP status
 codes alone could not show whether any login succeeded.
